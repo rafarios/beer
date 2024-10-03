@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Go to <code>zaxal.com</code>
+          Go to <code>https://zaxal.com</code>
         </p>
       </header>
       <div className="MyButton">
